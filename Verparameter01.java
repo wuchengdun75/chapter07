@@ -6,15 +6,10 @@ public class Verparameter01 {
 		System.out.println(dykbcs.sum(1, 1));
 		System.out.println(dykbcs.sum(1, 2, 3));
 		System.out.println(dykbcs.sum(1, 2, 3,4,5,5,3));
-		System.out.println(dykbcs.sum(1, 2, 3,4,5,5,3,4,5,3,45,35,435,3));
-
-
-		
-		
-		
-		
+		System.out.println(dykbcs.sum(1, 2, 3,4,5,5,3,4,5,3,45,35,435,3));	
 	}
 }
+
 class Kbcs {
 //	public int sum(int n1, int n2) {
 //		return n1 + n2;
